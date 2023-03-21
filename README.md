@@ -3,7 +3,7 @@ A Data visualization Project about energy technologies and efficiency in Europe,
 
 ## Data Sources
 
-Dataset have been also acquired from https://www.kaggle.com/datasets/pralabhpoudel/world-energy-consumption which come from ["Our World in Data"](https://ourworldindata.org/). Since 2019 Gross Domestic Product (GDP) data was not available in the Kaggle's dataset, it has been complemented by downloading it straight from the "Our World in Data" website.
+[Energy] Dataset have been also acquired from https://www.kaggle.com/datasets/pralabhpoudel/world-energy-consumption which come from ["Our World in Data"](https://ourworldindata.org/). Since 2019 Gross Domestic Product (GDP) data was not available in the Kaggle's dataset, it has been complemented by downloading it straight from the "Our World in Data" website.
 
 ## Metrics to consider
 Images to produce will contain piecharts for every country in the EMENA region placed geographically over maps produced with Cartopy. Their radii will be proportional to the percapita electricity consumption for each country. Moreover, the ratio of electricity consumption per GDP will be mapped through the color of the country in the map. So this image will offer at a glance:
