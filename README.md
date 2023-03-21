@@ -9,7 +9,7 @@ Dataset have been also acquired from https://www.kaggle.com/datasets/pralabhpoud
 Images to produce will contain piecharts for every country in the EMENA region placed geographically over maps produced with Cartopy. Their radii will be proportional to the percapita electricity consumption for each country. Moreover, the ratio of electricity consumption per GDP will be mapped through the color of the country in the map. So this image will offer at a glance:
 - Share of each technologie used to produce electricity in each country through the piechart.
 - Through the piechart size, per capita electricity consumption.
-- Electricity consumption per unit of GDP (Millions of 2015 dollars) through the color of the country on the map.
+- Electricity consumption per unit of GDP (Millions of 2015 US dollars) through the color of the country on the map.
 
 
 ![EMENA_region](https://user-images.githubusercontent.com/63328827/226515539-9b1d842f-4cbf-41ea-84bd-7b45fa341e2d.png)
