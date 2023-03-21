@@ -1,7 +1,7 @@
 # EnergeticOverviewEMENA
 A Data visualization Project about energy technologies and efficiency in Europe, Middle East and North Africa
 
-## Data Sources:
+## Data Sources
 
 Dataset have been also acquired from https://www.kaggle.com/datasets/pralabhpoudel/world-energy-consumption which come from ["Our World in Data"](https://ourworldindata.org/). Since 2019 Gross Domestic Product (GDP) data was not available in the Kaggle's dataset, it has been complemented by downloading it straight from the "Our World in Data" website.
 
