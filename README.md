@@ -23,6 +23,7 @@ Zoom in to the Balkans and Middle East for the sake of clarity.
 
 Sources:
 ["Our World in Data"](https://ourworldindata.org/)
-Dataset shared by PRALABH POUDEL in [Kaggle](https://www.kaggle.com/datasets/pralabhpoudel/world-energy-consumption) 
+Dataset shared by PRALABH POUDEL in [Kaggle](https://www.kaggle.com/datasets/pralabhpoudel/world-energy-consumption).
+
 Authors of [Energy](https://github.com/ArnaldoMatute/EnergeticOverviewEMENA/blob/main/World%20Energy%20Consumption.csv) dataset: Hannah Ritchie, Max Roser and Edouard Mathieu.
 
