@@ -7,8 +7,8 @@ A Data visualization Project about energy technologies and efficiency in Europe,
 
 
 ## Metrics to consider
-Images to produce will contain piecharts for every country in the EMENA region placed geographically over maps produced with Cartopy. Their radii will be proportional to the per capita electricity consumption for each country. Moreover, the ratio of electricity consumption per GDP will be mapped through the color of the country in the map. So this image will offer at a glance:
-- Share of each technology used to produce electricity in each country through the piechart.
+The generated images will contain pie charts for each country in the EMENA region geographically positioned on Cartopy maps. Their radii will be proportional to the per capita electricity consumption for each country. Moreover, the ratio of electricity consumption per GDP will be mapped through the color of the country on the map. So this image will offer an immediate overview of:
+- Share of each technology used to produce electricity in each country through the pie chart.
 - Through the piechart size, per capita electricity consumption.
 - Electricity consumption per unit of GDP (Millions of 2015 US dollars) through the color of the country on the map.
 
